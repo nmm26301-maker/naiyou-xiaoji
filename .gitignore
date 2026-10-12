@@ -1,0 +1,9 @@
+toolchain/
+build/
+output/
+node_modules/
+*.keystore
+*.jks
+*recovery*.json
+*signing-settings*.json
+restore-*/

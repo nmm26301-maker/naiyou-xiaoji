@@ -1,0 +1,13 @@
+{
+  "application": "奶油小记",
+  "version": "1.0.0",
+  "package": "cn.creamnote.app",
+  "repository": "nmm26301-maker/naiyou-xiaoji",
+  "original_signature_preserved": true,
+  "apk_sha256": "c55667ddd10ec1b1c17ef9d0778a113c922683642c09c6c004c098aa10c1d6bf",
+  "signing_certificate_sha256": "dc1682839dc5e952afe22c64b4adca0ce1b3cbeb3f35079192b2a4f1fa23b10f",
+  "encrypted_original_backup": "backups/CreamNote-1.0.0-private-backup.aesgcm",
+  "backup_sha256": "3cbb8e0ad3a11a33d300a56de98ea29c8eb439bf0c1d52a10d84ccbb26002fcb",
+  "original_source_zip_sha256": "d9ef8fd69ae22fe38d8a80e6dcd0fb1a4eedc45f43acdb1be852e289bcc0cddc",
+  "sensitive_files_encrypted": true
+}
